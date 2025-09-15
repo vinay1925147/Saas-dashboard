@@ -5,9 +5,13 @@ It includes login, contract management, search & filters, insights, and a respon
 🚀 Features
   Login Page :
     Username + Password (mock auth, password = test123).
+    
     Contracts Dashboard – Table view with:
+    
     Contract Name, Parties, Expiry, Status, Risk.
+    
     Search bar + filters (Status, Risk).
+    
      Pagination (10 rows per page).
 
 📑 Contract Detail Page – Metadata, clauses, AI insights, evidence drawer.
@@ -26,4 +30,4 @@ Icons: React Icons
 
 State Management: React Hooks & Context API
 
-Deployment: GitHub Pages
+Deployment: GitHub and Versal application
