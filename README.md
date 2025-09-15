@@ -1,7 +1,23 @@
 # Saas--dashboard
 A modern SaaS Contracts Management Dashboard built with React, Vite, and Tailwind CSS.
 It includes login, contract management, search & filters, insights, and a responsive UI.
+************
 
+✅ Setup SaaS Dashboard Project
+1️⃣ Create React + Vite App
+npm create vite@latest saas-dashboard
+cd saas-dashboard
+npm install
+
+
+👉 Choose React and JavaScript (or TypeScript if you want).
+
+2️⃣ Install Tailwind CSS
+
+Run:
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
 ************
 🚀 Features
 
@@ -27,6 +43,7 @@ Pagination (10 rows per page).
 
 📱 Responsive UI – Built with Tailwind for clean, modern look.
 
+************
 🛠️ Tech Stack
 
 Frontend: React + Vite
@@ -38,3 +55,6 @@ Icons: React Icons
 State Management: React Hooks & Context API
 
 Deployment: GitHub and Versal application
+
+********************
+
