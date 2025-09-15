@@ -10,7 +10,7 @@ function App() {
       <Routes>
       <Route
         path="/"
-        element={token ? <Navigate to="/login" /> : <Navigate to="/deshboard" />}
+        element={token ? <Navigate to="/deshboard" /> : <Navigate to="/login" />}
       />
       <Route path="/login" element={<Login />} />
       <Route path="/dashboard" element={<Deshboard />} />
