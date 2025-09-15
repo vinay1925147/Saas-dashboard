@@ -1,0 +1,85 @@
+{
+  "contract" : [
+    
+    {
+    "id": "c1",
+    "name": "MSA 2025",
+    "parties": "Microsoft & ABC Corp",
+    "expiry": "2025-12-31",
+    "status": "Active",
+    "risk": "low"
+  },
+    {
+    "id": "c2",
+    "name": "Computer",
+    "parties": "Apple",
+    "expiry": "2025-12-31",
+    "status": "Active",
+    "risk": "Medium"
+  },
+  {
+    "id": "c3",
+    "name": "Network Services Agreement",
+    "parties": "TelNet & ABC Corp",
+    "expiry": "2025-10-10",
+    "status": "Renewal Due",
+    "risk": "High"
+  },
+    {
+    "id": "c3",
+    "name": "Marketing",
+    "parties": "DeltaX",
+    "expiry": "2025-10-10",
+    "status": "Renewal Due",
+    "risk": "low"
+  },
+    {
+    "id": "c5",
+    "name": "Finance",
+    "parties": "Paytm and PhonePay",
+    "expiry": "2030-12-11",
+    "status": "Active",
+    "risk": "High"
+  } ,
+   {
+    "id": "c6",
+    "name": "Shopping",
+    "parties": " Flipcart",
+    "expiry": "2024-02-18",
+    "status": "Expired",
+    "risk": "High"
+  },
+    {
+    "id": "c7",
+    "name": "Network Services ",
+    "parties": "TelNet ",
+    "expiry": "2025-10-10",
+    "status": "Renewal Due",
+    "risk": "High"
+  },
+    {
+    "id": "c8",
+    "name": "Education",
+    "parties": "PW and Motion",
+    "expiry": "2030-10-10",
+    "status": "Active",
+    "risk": "Medium"
+  } ,
+   {
+    "id": "c9",
+    "name": "Food",
+    "parties": "Zomato and Swiggy",
+    "expiry": "2028-10-10",
+    "status": "Active",
+    "risk": "low"
+  },
+    {
+    "id": "c10",
+    "name": "Tranpotation",
+    "parties": "TelNet & ABC Corp",
+    "expiry": "2029-11-10",
+    "status": "Active",
+    "risk": "low"
+  }
+]
+}
